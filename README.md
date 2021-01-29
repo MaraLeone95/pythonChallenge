@@ -1,3 +1,3 @@
 # pythonChallenge
 
-Programming challenge with solutions to varius levels. 
+Programming challenge with solutions to various levels. 
